@@ -8,3 +8,6 @@
 import this
 import numpy as np
 ```
+- [ ] Checklist 1
+- [ ] Checklist 2
+- [ ] Checklist 3
